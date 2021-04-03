@@ -1,0 +1,258 @@
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\BlazorApp.blazor.config
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\BlazorApp.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\BlazorApp.pdb
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\BlazorApp.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Blazor.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Components.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Metadata.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.Options.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.Primitives.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.JSInterop.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\Mono.Security.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\Mono.WebAssembly.Interop.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\mscorlib.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Buffers.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\System.ComponentModel.Annotations.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Core.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\System.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Memory.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Net.Http.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Numerics.Vectors.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Text.Encodings.Web.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Text.Json.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Threading.Tasks.Extensions.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\wasm\mono.js
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\wasm\mono.wasm
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\blazor.server.js
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\blazor.webassembly.js
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\BlazorApp.pdb
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\blazor.boot.json
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Blazor.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Components.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\Microsoft.Extensions.Options.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\Microsoft.Extensions.Primitives.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\Microsoft.JSInterop.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\Mono.WebAssembly.Interop.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\System.Buffers.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\System.Memory.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\System.Numerics.Vectors.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\System.Text.Encodings.Web.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\System.Text.Json.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\bin\Debug\netstandard2.0\System.Threading.Tasks.Extensions.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\BlazorApp.csprojAssemblyReference.cache
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\BlazorApp.AssemblyInfoInputs.cache
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\BlazorApp.AssemblyInfo.cs
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\BlazorApp.RazorComponent.input.cache
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\RazorDeclaration\App.razor.g.cs
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\RazorDeclaration\BlazorApp.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\BlazorApp.TagHelpers.input.cache
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\BlazorApp.TagHelpers.output.cache
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\BlazorApp.RazorCoreGenerate.cache
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\Razor\App.razor.g.cs
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\Razor\Pages\FetchData.razor.g.cs
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\Razor\Pages\Index.razor.g.cs
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\Razor\_Imports.razor.g.cs
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\BlazorApp.RazorTargetAssemblyInfo.cache
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\BlazorApp.csproj.CopyComplete
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\staticwebassets\BlazorApp.StaticWebAssets.Manifest.cache
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\staticwebassets\BlazorApp.StaticWebAssets.xml
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\BlazorApp.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\BlazorApp.pdb
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\inputs.linkerswitch.cache
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\inputs.basic.cache
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\inputs.copylocal.txt
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker.descriptor.xml
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\inputs.linker.cache
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linked.assemblies.txt
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\BlazorApp.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Authorization.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Blazor.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Metadata.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.Options.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.Primitives.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\Microsoft.JSInterop.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\Mono.Security.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\Mono.WebAssembly.Interop.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\mscorlib.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\System.Buffers.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\System.ComponentModel.Annotations.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\System.Core.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\System.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\System.Memory.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\System.Net.Http.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\System.Numerics.Vectors.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\System.Text.Encodings.Web.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\System.Text.Json.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\System.Threading.Tasks.Extensions.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\BlazorApp.pdb
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\inputs.bootjson.cache
+C:\Users\jack\OneDrive\desktop\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\blazor.boot.json
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\BlazorApp.blazor.config
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\BlazorApp.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\BlazorApp.pdb
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\BlazorApp.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Authorization.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Blazor.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Blazor.HttpClient.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Components.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Metadata.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.Options.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.Primitives.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.JSInterop.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\Mono.Security.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\Mono.WebAssembly.Interop.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\mscorlib.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Buffers.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\System.ComponentModel.Annotations.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Core.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\System.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Memory.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Net.Http.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Numerics.Vectors.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Text.Encodings.Web.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Text.Json.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Threading.Tasks.Extensions.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\wasm\mono.js
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\wasm\mono.wasm
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\blazor.server.js
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\blazor.webassembly.js
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\_bin\BlazorApp.pdb
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\dist\_framework\blazor.boot.json
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Authorization.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Blazor.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Blazor.HttpClient.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Components.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Components.Forms.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Components.Web.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Metadata.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\Microsoft.Extensions.Options.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\Microsoft.Extensions.Primitives.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\Microsoft.JSInterop.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\Mono.WebAssembly.Interop.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\System.Buffers.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\System.Memory.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\System.Numerics.Vectors.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\System.Text.Encodings.Web.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\System.Text.Json.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\bin\Debug\netstandard2.0\System.Threading.Tasks.Extensions.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\BlazorApp.csprojAssemblyReference.cache
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\staticwebassets\BlazorApp.StaticWebAssets.Manifest.cache
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\staticwebassets\BlazorApp.StaticWebAssets.xml
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\BlazorApp.RazorComponent.input.cache
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\RazorDeclaration\App.razor.g.cs
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Counter.razor.g.cs
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Index.razor.g.cs
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\RazorDeclaration\_Imports.razor.g.cs
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\RazorDeclaration\BlazorApp.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\BlazorApp.TagHelpers.input.cache
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\BlazorApp.TagHelpers.output.cache
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\BlazorApp.RazorCoreGenerate.cache
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\Razor\App.razor.g.cs
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\Razor\Pages\Counter.razor.g.cs
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\Razor\Pages\FetchData.razor.g.cs
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\Razor\Pages\Index.razor.g.cs
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\Razor\Shared\MainLayout.razor.g.cs
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\Razor\Shared\NavMenu.razor.g.cs
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\Razor\Shared\SurveyPrompt.razor.g.cs
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\Razor\_Imports.razor.g.cs
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\BlazorApp.AssemblyInfoInputs.cache
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\BlazorApp.AssemblyInfo.cs
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\BlazorApp.RazorTargetAssemblyInfo.cache
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\BlazorApp.csproj.CopyComplete
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\BlazorApp.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\BlazorApp.pdb
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\inputs.linkerswitch.cache
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\inputs.basic.cache
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\inputs.copylocal.txt
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker.descriptor.xml
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\inputs.linker.cache
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linked.assemblies.txt
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\BlazorApp.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Authorization.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Blazor.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Blazor.HttpClient.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.Forms.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.Web.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Metadata.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.DependencyInjection.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.Options.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.Primitives.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\Microsoft.JSInterop.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\Mono.Security.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\Mono.WebAssembly.Interop.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\mscorlib.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\System.Buffers.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\System.ComponentModel.Annotations.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\System.Core.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\System.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\System.Memory.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\System.Net.Http.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\System.Numerics.Vectors.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\System.Runtime.CompilerServices.Unsafe.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\System.Text.Encodings.Web.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\System.Text.Json.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\System.Threading.Tasks.Extensions.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\linker\BlazorApp.pdb
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\inputs.bootjson.cache
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\BlazorApp\obj\Debug\netstandard2.0\blazor\blazor.boot.json

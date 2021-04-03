@@ -1,0 +1,38 @@
+<div class="container-fluid">
+    <div class="row">
+        <div class="col bg-dark text-white">
+            <div class="navbar-brand">Magic Store</div>
+            <div class="float-right navbar-text">
+                <div *ngIf="authService.authenticated; else elseBlock">
+                    <small class="text-white mr-3">Hello, {{authService.name}}</small>
+                    <button class ="btn mr-3 btn-sm btn-warning" (click)="authService.logout()">Logout </button>
+                </div>
+                <ng-template #elseBlock>
+                    <div>
+                    <button class = "btn mr-3 btn-sm btn-warning" routerLink='/login' routerLinkActive = "active">Login</button>
+                    <button class = "btn mr-3 btn-sm btn-warning" routerLink='/register'>Register</button>
+                    </div>
+                </ng-template>
+                <store-cartsummary></store-cartsummary>
+            </div>
+            </div>
+    </div>
+</div>
+<div class="row no-gutters">
+    <div class="col"><blazor></blazor></div>
+</div>
+<div class="col-3 fixed-bottom mb-1">
+    <a class="btn btn-block btn-secondary" routerLink="/admin" [hidden]= "authService.name !== 'admin'">
+    
+        Administration
+    </a>
+</div>
+<div class="row no-gutters">
+    <div class="col-3">
+        <store-categoryfilter></store-categoryfilter>
+    </div>
+    <div class="col">
+        <store-product-list></store-product-list>
+        <store-pagination></store-pagination>
+    </div>
+</div>

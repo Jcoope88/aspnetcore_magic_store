@@ -1,0 +1,326 @@
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\appsettings.Development.json
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\appsettings.json
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\global.json
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\libman.json
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\ServerApp.exe
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\ServerApp.deps.json
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\ServerApp.runtimeconfig.json
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\ServerApp.runtimeconfig.dev.json
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\ServerApp.dll
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\ServerApp.pdb
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\ServerApp.Views.dll
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\ServerApp.Views.pdb
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.NodeServices.dll
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.SpaServices.dll
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.SqlServer.dll
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.dll
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.csprojAssemblyReference.cache
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\obj\Debug\netcoreapp3.0\staticwebassets\ServerApp.StaticWebAssets.Manifest.cache
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\obj\Debug\netcoreapp3.0\staticwebassets\ServerApp.StaticWebAssets.xml
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.MvcApplicationPartsAssemblyInfo.cs
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.MvcApplicationPartsAssemblyInfo.cache
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.RazorAssemblyInfo.cache
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.RazorAssemblyInfo.cs
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.AssemblyInfoInputs.cache
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.AssemblyInfo.cs
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.TagHelpers.input.cache
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.TagHelpers.output.cache
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.RazorCoreGenerate.cache
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Placeholder.cshtml.g.cs
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.RazorTargetAssemblyInfo.cache
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.RazorTargetAssemblyInfo.cs
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.Views.pdb
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.csproj.CopyComplete
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.dll
+E:\Fall 2020\IDS 413\Chapter 09\SportsStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.pdb
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\appsettings.Development.json
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\appsettings.json
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\global.json
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\libman.json
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\ServerApp.exe
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\ServerApp.deps.json
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\ServerApp.runtimeconfig.json
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\ServerApp.runtimeconfig.dev.json
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\ServerApp.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\ServerApp.pdb
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\ServerApp.Views.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\ServerApp.Views.pdb
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.NodeServices.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.SpaServices.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.SqlServer.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.csprojAssemblyReference.cache
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\staticwebassets\ServerApp.StaticWebAssets.Manifest.cache
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\staticwebassets\ServerApp.StaticWebAssets.xml
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.MvcApplicationPartsAssemblyInfo.cs
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.MvcApplicationPartsAssemblyInfo.cache
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.RazorAssemblyInfo.cache
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.RazorAssemblyInfo.cs
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.AssemblyInfoInputs.cache
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.AssemblyInfo.cs
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.TagHelpers.input.cache
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.TagHelpers.output.cache
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.RazorCoreGenerate.cache
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Placeholder.cshtml.g.cs
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.RazorTargetAssemblyInfo.cache
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.RazorTargetAssemblyInfo.cs
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.Views.pdb
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.csproj.CopyComplete
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.pdb
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\BlazorApp.blazor.config
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Blazor.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Blazor.HttpClient.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Blazor.Server.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Mono.Cecil.Mdb.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Mono.Cecil.Pdb.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Mono.Cecil.Rocks.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Mono.Cecil.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Mono.WebAssembly.Interop.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\BlazorApp.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\BlazorApp.pdb
+E:\Fall 2020\IDS 413\IDS 413 - Pres 1\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Blazor.cshtml.g.cs
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\global.json
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\libman.json
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\BlazorApp.blazor.config
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\ServerApp.exe
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\ServerApp.deps.json
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\ServerApp.runtimeconfig.json
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\ServerApp.runtimeconfig.dev.json
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\ServerApp.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\ServerApp.pdb
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\ServerApp.Views.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\ServerApp.Views.pdb
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Blazor.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Blazor.Server.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.NodeServices.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.SpaServices.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.SqlServer.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Mono.Cecil.Mdb.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Mono.Cecil.Pdb.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Mono.Cecil.Rocks.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Mono.Cecil.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Mono.WebAssembly.Interop.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\BlazorApp.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\BlazorApp.pdb
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.csprojAssemblyReference.cache
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\staticwebassets\ServerApp.StaticWebAssets.Manifest.cache
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\staticwebassets\ServerApp.StaticWebAssets.xml
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.RazorAssemblyInfo.cache
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.RazorAssemblyInfo.cs
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.AssemblyInfoInputs.cache
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.AssemblyInfo.cs
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.TagHelpers.input.cache
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.TagHelpers.output.cache
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.RazorCoreGenerate.cache
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Blazor.cshtml.g.cs
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Placeholder.cshtml.g.cs
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.RazorTargetAssemblyInfo.cache
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.RazorTargetAssemblyInfo.cs
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.Views.pdb
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.csproj.CopyComplete
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.dll
+C:\Users\jack\OneDrive\desktop\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.pdb
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\appsettings.Development.json
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\appsettings.json
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\global.json
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\libman.json
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\BlazorApp.blazor.config
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\ServerApp.exe
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\ServerApp.deps.json
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\ServerApp.runtimeconfig.json
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\ServerApp.runtimeconfig.dev.json
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\ServerApp.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\ServerApp.pdb
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\ServerApp.Views.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\ServerApp.Views.pdb
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Blazor.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Blazor.HttpClient.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Blazor.Server.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.NodeServices.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.SpaServices.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.SqlServer.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Mono.Cecil.Mdb.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Mono.Cecil.Pdb.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Mono.Cecil.Rocks.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Mono.Cecil.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Mono.WebAssembly.Interop.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\BlazorApp.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\BlazorApp.pdb
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.csprojAssemblyReference.cache
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\staticwebassets\ServerApp.StaticWebAssets.Manifest.cache
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\staticwebassets\ServerApp.StaticWebAssets.xml
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.MvcApplicationPartsAssemblyInfo.cs
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.MvcApplicationPartsAssemblyInfo.cache
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.RazorAssemblyInfo.cache
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.RazorAssemblyInfo.cs
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.AssemblyInfoInputs.cache
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.AssemblyInfo.cs
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.TagHelpers.input.cache
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.TagHelpers.output.cache
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.RazorCoreGenerate.cache
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Blazor.cshtml.g.cs
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Placeholder.cshtml.g.cs
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.RazorTargetAssemblyInfo.cache
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.RazorTargetAssemblyInfo.cs
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.Views.pdb
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.csproj.CopyComplete
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\ServerApp.pdb
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Fall 2020\IDS 413\IDS 413 - Pres 2\MagicStore\ServerApp\obj\Debug\netcoreapp3.0\Razor\Views\Account\Login.cshtml.g.cs
